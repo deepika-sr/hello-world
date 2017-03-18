@@ -1,3 +1,3 @@
 # hello-world
-this is my first gothub practice
+this is my first github practice
 i m practicing branching
